@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap>
+  <global>
+    <remote>
+      <red>ContextMenu</red>
+      <green>OSD</green>
+      <yellow>Fullscreen</yellow>
+      <blue>Info</blue>
+    </remote>
+  </global>
+</keymap>
+
